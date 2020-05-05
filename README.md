@@ -1,6 +1,6 @@
 # Apprentice_Chef_Machine_Learning_Model
 
-This is the first ever unsupervised Machine Learning that I did for my Machine Learning coursework.
+This is an Unsupervised Machine Learning Project that I did for my Machine Learning coursework.
 
 The context of the challenge:
 
@@ -17,7 +17,8 @@ a cross-selling promotion where subscribers receive a half bottle of wine from a
 vineyard every Wednesday (halfway through the work week). The executives at Apprentice Chef
 also believe this endeavor will create a competitive advantage based on its unique product
 offering of hard to find local wines.
-Halfway There has been exclusively offered to all of the customers in the dataset you received,
+
+**Halfway There has been exclusively offered to all of the customers in the dataset you received,
 and the executives would like to promote this service to a wider audience. They have tasked
 you with analyzing their data, developing your top insights, and building a machine learning
-model to predict which customers will subscribe to this service.
+model to predict which customers will subscribe to this service**
